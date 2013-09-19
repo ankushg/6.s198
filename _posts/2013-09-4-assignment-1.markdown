@@ -6,22 +6,22 @@ title: "Assignment 1"
 # Files:
 [StockQuotes_base.apk](http://web.mit.edu/ankush/www/6.S198/files/StockQuotes_base.apk)
 
-<img src="{{ site.url }}/assets/stocks1.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/stocks1.png" style="width: 240px;"/>
 
 
 [StockQuotes.apk](http://web.mit.edu/ankush/www/6.S198/files/StockQuotes.apk)
 
-<img src="{{ site.url }}/assets/stocks2.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/stocks2.png" style="width: 240px;"/>
 
 
 [FoodExplorer.apk](http://web.mit.edu/ankush/www/6.S198/files/FoodExplorer.apk)
 
-<img src="{{ site.url }}/assets/foodexplorer.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/foodexplorer.png" style="width: 240px;"/>
 
 
 [Twitter.apk](http://web.mit.edu/ankush/www/6.S198/files/Twitter.apk)
 
-<img src="{{ site.url }}/assets/twitter.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/twitter.png" style="width: 240px;"/>
 
 
 # What I learned:

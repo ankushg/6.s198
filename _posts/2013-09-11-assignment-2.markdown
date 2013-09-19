@@ -5,7 +5,7 @@ title: "Assignment 2"
 #Modifying AppInventor
 [ArcDemo.apk](http://web.mit.edu/ankush/www/6.S198/files/ArcDemo.apk)
 
-<img src="{{ site.url }}/assets/arcdemo.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/arcdemo.png" style="width: 240px;"/>
 
 
 
@@ -17,39 +17,39 @@ I learned how to create new modules that combine AppEngine components and Androi
 My app idea is one that I've actually been working on for a little over a semester. The goal is to create a fully-functional client app for Quizlet.com's web service. The website allows users to create, discover, share and study flashcards in several modes, and the eventual goal of the app is to allow users to do the same on mobile devices.
 
 ###Screenshots and Descriptions
-<img src="{{ site.url }}/assets/quizletscreens/1_login.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/quizletscreens/1_login.png" style="width: 240px;"/>
 
 Login screen where user can either Login or Signup
 
-<img src="{{ site.url }}/assets/quizletscreens/2_classes.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/quizletscreens/2_classes.png" style="width: 240px;"/>
 
 Once the user is logged in, they see a list of recent events in their classes, an option to filter events, and an option to switch classes though an ActionBar drop down menu.
 
-<img src="{{ site.url }}/assets/quizletscreens/3_classes_tablet.png" style="height: 240px;"/>
+<img src="{{ site.baseurl }}/assets/quizletscreens/3_classes_tablet.png" style="height: 240px;"/>
 
 On tablets, the Classes page has a different layout
 
-<img src="{{ site.url }}/assets/quizletscreens/4_setpage.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/quizletscreens/4_setpage.png" style="width: 240px;"/>
 
 When the user clicks on a specific set, they are taken to the Set page where they can see terms and images of the set, who created the set, and options to study the set.
 
-<img src="{{ site.url }}/assets/quizletscreens/5_cards.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/quizletscreens/5_cards.png" style="width: 240px;"/>
 
 In Cards mode, the user can scroll through the terms in the set.
 
-<img src="{{ site.url }}/assets/quizletscreens/6_learnmode.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/quizletscreens/6_learnmode.png" style="width: 240px;"/>
 
 In Learn mode, the user is prompted with one side of a Term (and optionally the image) and must enter the other.
 
-<img src="{{ site.url }}/assets/quizletscreens/7_match.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/quizletscreens/7_match.png" style="width: 240px;"/>
 
 In Match mode, the user must match the terms and definitions and competes to minimize the time taken for a high score.
 
-<img src="http://web.mit.edu/ankush/www/6.S198/images/quizletscreens/8_userprofile.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/quizletscreens/8_userprofile.png" style="width: 240px;"/>
 
 On a user's Profile page, one can see public Sets they've created and Classes they are publicly in.
 
-<img src="{{ site.url }}/assets/quizletscreens/9_search.png" style="width: 240px;"/>
+<img src="{{ site.baseurl }}/assets/quizletscreens/9_search.png" style="width: 240px;"/>
 
 The search page allows users to find new study materials.
 
